@@ -1,0 +1,40 @@
+site_name: Goaldone Projekt Dokumentation
+site_url: https://projekt.goaldone.de
+site_author: Goaldone Team
+repo_url: https://github.com/Joinsider/goaldone-projektseite
+
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.tabs # Macht die Navigation schöner
+  palette:
+    # Optional: Dark Mode Schalter hinzufügen
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: In den Dark Mode wechseln
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: In den Light Mode wechseln
+#extra:
+#  consent:
+#    title: "Diese Website verwendet Cookies"
+#    description: "Wir verwenden Cookies, um die Nutzererfahrung zu verbessern und die Verwendung unserer Dokumentation zu überwachen.
+#    Durch die weitere Nutzung der Website stimmen Sie der Verwendung von Cookies zu."
+
+# Diese Erweiterungen erlauben die Button-Klassen in Markdown
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - optimize
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: timeago
+      locale: de

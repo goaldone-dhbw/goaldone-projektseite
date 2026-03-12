@@ -1,11 +1,10 @@
-name: Deploy Docs to GitHub Pages
+name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
-    branches: ["master"] # oder "master", falls dein Hauptbranch so heißt
+    branches: ["main"] # Pass das an, falls dein Branch "master" heißt
   workflow_dispatch:
 
-# Notwendige Berechtigungen für GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -30,16 +29,22 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Generiere statische Seite
-        run: python generate.py
+      # Installiert MkDocs und das Material-Theme auf dem GitHub Server
+      - name: Install dependencies
+        run: pip install mkdocs-material
+
+      # Baut die statische Seite in den Ordner "site"
+      - name: Build MkDocs
+        run: mkdocs build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      # Lädt den fertigen "site" Ordner hoch
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './public' # Hierhin speichert unser Python-Skript
+          path: './site'
 
       - name: Deploy to GitHub Pages
         id: deployment
