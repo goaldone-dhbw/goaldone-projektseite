@@ -47,5 +47,5 @@ Du kannst auch Dateien wie Bilder oder PDFs in deine Markdown-Dokumente einbinde
 Dabei müssen die Dateien im `/docs/assets`-Ordner liegen, damit sie auf der Webseite eingebunden werden können.
 
 Ein Beispiel:
-[Beispiel-PDF](../assets/moodle/Aufgabenblatt1.pdf){ .md-button .md-button--primary }
-[Andere Dateien](../assets/moodle/03-Aufwandserfassung.pdf){ .md-button .md-button--primary }
+[Beispiel-PDF](assets/moodle/Aufgabenblatt1.pdf){ .md-button .md-button--primary }
+[Andere Dateien](assets/moodle/03-Aufwandserfassung.pdf){ .md-button .md-button--primary }
