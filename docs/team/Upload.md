@@ -22,6 +22,7 @@ git push origin main
 Die Dokumente auf der Webseite sind in Markdown geschrieben. Markdown ist eine einfache textbasiertes Dateiformat, das leicht zu lesen und zu schreiben ist. 
 
 Hier sind einige grundlegende Markdown-Syntaxelemente, die du verwenden kannst:
+
 - Überschriften: `#` für H1, `##` für H2, `###` für H3 usw.
 - Fett: `**Text**` oder `__Text__`
 - Kursiv: `*Text*` oder `_Text_`
@@ -39,6 +40,7 @@ Hier sind einige grundlegende Markdown-Syntaxelemente, die du verwenden kannst:
 
 ### Einbinden von Dateien
 Du kannst auch Dateien wie Bilder oder PDFs in deine Markdown-Dokumente einbinden.
+
 - Bilder: `![Alt-Text](Pfad/zum/Bild.jpg)`
 - PDFs: `[PDF-Name](Pfad/zur/Datei.pdf)`
 
