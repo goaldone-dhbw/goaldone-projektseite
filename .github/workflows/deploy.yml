@@ -2,7 +2,7 @@ name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
-    branches: ["main"] # Pass das an, falls dein Branch "master" heißt
+    branches: ["master"] # Pass das an, falls dein Branch "master" heißt
   workflow_dispatch:
 
 permissions:
