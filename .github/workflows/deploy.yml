@@ -2,7 +2,7 @@ name: Deploy Docs to GitHub Pages
 
 on:
   push:
-    branches: ["main"] # oder "master", falls dein Hauptbranch so heißt
+    branches: ["master"] # oder "master", falls dein Hauptbranch so heißt
   workflow_dispatch:
 
 # Notwendige Berechtigungen für GitHub Pages
