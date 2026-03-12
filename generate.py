@@ -10,6 +10,10 @@ if os.path.exists(PUBLIC_DIR):
     shutil.rmtree(PUBLIC_DIR)
 os.makedirs(PUBLIC_DIR)
 
+# Create the CNAME file for GitHub Pages
+with open(os.path.join(PUBLIC_DIR, 'CNAME'), 'w', encoding='utf-8') as f:
+    f.write("projekt.goaldone.de")
+
 if not os.path.exists(DOCS_DIR):
     os.makedirs(DOCS_DIR)
 
