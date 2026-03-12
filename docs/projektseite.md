@@ -1,4 +1,8 @@
-# Wie lade ich Dateien auf die Projektseite hoch?
+# Projektseite bearbeiten
+
+Bei der Projektseite handelt es sich um das Framework MkDocs, das auf GitHub gehostet wird. 
+Dateien werden dabei in Markdown geschrieben und in einem Ordner namens `docs` abgelegt.
+Zusätzlich können Dateien wie Bilder oder PDFs im Ordner `docs/assets` abgelegt werden, um sie in den Dokumenten einzubinden.
 
 Klone das Repository auf deinen Computer:
 
@@ -18,7 +22,7 @@ git push origin main
 ```
 
 
-## Aufbau von Dokumenten
+#### Aufbau von Markdown Dokumenten
 Die Dokumente auf der Webseite sind in Markdown geschrieben. Markdown ist eine einfache textbasiertes Dateiformat, das leicht zu lesen und zu schreiben ist. 
 
 Hier sind einige grundlegende Markdown-Syntaxelemente, die du verwenden kannst:

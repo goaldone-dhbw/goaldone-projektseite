@@ -19,6 +19,6 @@
 ## Weitere Dateien
 [01 - Einführung](assets/moodle/01-Einfuehrung.pdf){ .md-button .md-button--primary }
 
-[02 - Rahmenplan](assets/moodle/02-Rahmenplan-TINF2024_(HORB-2026).pdf){ .md-button .md-button--primary }
+[02 - Rahmenplan](assets/moodle/02-Rahmenplan-TINF2024_(HORB-2026).xlsx){ .md-button .md-button--primary }
 
-[03 - Aufwandserfassung](assets/moodle/03-Aufwandserfassung.pdf){ .md-button .md-button--primary }
+[03 - Aufwandserfassung](assets/moodle/03-Aufwanderfassung.xlsx){ .md-button .md-button--primary }

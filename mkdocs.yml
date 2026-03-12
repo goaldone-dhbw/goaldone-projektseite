@@ -7,7 +7,7 @@ theme:
   name: material
   language: de
   features:
-    - navigation.tabs # Macht die Navigation schöner
+    - navigation.expand # Macht Kategorien in der Seitenleiste aufklappbar
   palette:
     # Optional: Dark Mode Schalter hinzufügen
     - media: "(prefers-color-scheme: light)"
@@ -34,3 +34,9 @@ markdown_extensions:
 
 plugins:
   - search
+
+nav:
+  - Home: index.md
+  - Entwicklungsteam: entwicklungsteam.md
+  - Projektstruktur:
+      - Projektseite: projektseite.md
