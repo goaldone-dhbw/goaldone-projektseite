@@ -38,5 +38,7 @@ plugins:
 nav:
   - Home: index.md
   - Entwicklungsteam: entwicklungsteam.md
-  - Projektstruktur:
+  - Interne Dokumentation:
       - Projektseite: projektseite.md
+      - Aufgabenblätter: aufgabenblaetter.md
+  - Risikoanalyse: risikoanalyse.md
