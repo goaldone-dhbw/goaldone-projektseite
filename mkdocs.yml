@@ -1,7 +1,7 @@
 site_name: Goaldone Projekt Dokumentation
 site_url: https://projekt.goaldone.de
 site_author: Goaldone Team
-repo_url: https://github.com/Joinsider/goaldone-projektseite
+repo_url: https://github.com/goaldone-dhbw/goaldone-projektseite
 
 theme:
   name: material
