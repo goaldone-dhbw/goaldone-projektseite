@@ -1,6 +1,6 @@
 # Entwicklungsteam
 
-- **Projektleitung**: Salma Elyousoufi
+- **Projektleitung**: Salma Elyoussoufi
 - **technische Assistenz**: Leon Freudenmann
 - **Recherche-Verantwortliche**: Pia-Marie Kammerer
 - **Modellierungs-Verantwortlicher**: Tim Blieffert
