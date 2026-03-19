@@ -11,4 +11,4 @@ Dokumente werden in Markdown geschrieben aber auch Dateien können veröffentlic
 Gehostet wird die Seite auf Netlify und die Inhalte werden über GitHub verwaltet. 
 Wenn eine Änderung auf den master branch gepusht wird, wird die Seite automatisch neu gebaut und aktualisiert.
 
-[Github Repository](https://github.com/Joinsider/goaldone-projektseite)
+[Github Organization](https://github.com/goaldone-dhbw)
