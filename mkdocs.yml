@@ -45,3 +45,6 @@ nav:
       - Projektseite: projektseite.md
   - Risikoanalyse: risikoanalyse.md
   - Recherchebericht: recherchebericht.md
+    -Lastenheft: lastenheft.md
+    -Designbeschreibung: designbeschreibung.md
+
