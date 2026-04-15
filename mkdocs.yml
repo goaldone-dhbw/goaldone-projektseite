@@ -43,8 +43,8 @@ nav:
   - Entwicklungsteam: entwicklungsteam.md
   - Projektressourcen:
       - Projektseite: projektseite.md
+      - Prototyp: prototyp.md
   - Risikoanalyse: risikoanalyse.md
   - Recherchebericht: recherchebericht.md
-    -Lastenheft: lastenheft.md
-    -Designbeschreibung: designbeschreibung.md
-
+  - Lastenheft: lastenheft.md
+  - Planungsalgorithmus: planungsalgorithmus.md
