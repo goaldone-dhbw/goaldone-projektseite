@@ -1,6 +1,6 @@
 # Prototyp
 
-erreichbar auf https://prototyp.goaldone.de
+erreichbar auf [https://prototyp.goaldone.de](https://prototyp.goaldone.de)
 
 ## Anleitung
 [Anleitung für Prototyp](assets/prototyp_anleitung.pdf){ .md-button .md-button--primary }
