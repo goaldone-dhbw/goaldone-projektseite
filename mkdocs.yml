@@ -41,12 +41,14 @@ plugins:
 nav:
   - Home: index.md
   - Entwicklungsteam: entwicklungsteam.md
+  - Lastenheft und Pflichtenheft: lasten_pflichtenheft.md
   - Projektressourcen:
       - Projektseite: projektseite.md
       - Prototyp: prototyp.md
-  - Risikoanalyse: risikoanalyse.md
-  - Recherchebericht: recherchebericht.md
-  - Lastenheft und Pflichtenheft: lasten_pflichtenheft.md
-  - Planungsalgorithmus: planungsalgorithmus.md
-  - Designbeschreibung: designbeschreibung.md
-  - Diagramme: diagramme.md
+  - Berichte:
+      - Risikoanalyse: risikoanalyse.md
+      - Recherchebericht: recherchebericht.md
+      - Designbeschreibung: designbeschreibung.md
+  - Produktfeatures:
+      - Planungsalgorithmus: planungsalgorithmus.md
+  
