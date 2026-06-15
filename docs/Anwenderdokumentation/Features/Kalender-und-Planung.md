@@ -29,6 +29,21 @@ Wenn eine Aufgabe länger dauert als ein verfügbares Zeitfenster (oder Ihre Kon
 Graue Bereiche im Kalender liegen außerhalb Ihrer Arbeitszeiten. In diesen Bereichen werden keine flexiblen Aufgaben eingeplant.
 
 Wenn keine Arbeitszeiten konfiguriert sind, verwendet GoalDone standardmäßig Montag bis Freitag von 08:00 bis 17:00 Uhr als verfügbare Arbeitszeit. Feste Termine und Pausen blockieren die automatische Planung und können nicht für flexible Aufgaben genutzt werden.
+
+## Rückmeldung nach Ablauf eines Aufgabenblocks
+
+Wenn ein eingeplanter Aufgabenblock abgelaufen ist, kann GoalDone einen Dialog anzeigen. In diesem Dialog fragt das System, ob die Aufgabe abgeschlossen wurde.
+
+Dabei gibt es je nach Aufgabe unterschiedliche Möglichkeiten:
+
+* **Die ganze Aufgabe als erledigt markieren:**  
+  Die Aufgabe wird vollständig abgeschlossen. Falls die Aufgabe aus mehreren Zeitblöcken besteht, werden alle zugehörigen Zeitblöcke als erledigt markiert.
+
+* **Dialog schließen – nicht mehr anzeigen:**  
+  Die Aufgabe bleibt offen und der konkrete Zeitblock wird nicht als erledigt markiert. Der Dialog wird für diesen Zeitblock nicht erneut angezeigt.
+
+Bei Aufgaben, die nur aus einem einzigen Zeitblock bestehen, weist GoalDone darauf hin, dass dies die einzige Einheit der Aufgabe ist. Bei aufgeteilten Aufgaben kann sichtbar werden, welcher Teil der Aufgabe gerade betroffen ist.
+
 ## Wiederkehrende Aufgaben
 Aufgaben, die sich regelmäßig wiederholen (z. B. "Wöchentliches Reporting"), erscheinen automatisch an den entsprechenden Tagen in Ihrem Kalender, sobald sie vom System für diesen Zeitraum eingeplant wurden. Sie müssen diese nicht jede Woche neu erstellen.
 
