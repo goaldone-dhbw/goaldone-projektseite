@@ -36,6 +36,9 @@ Es gibt zwei Arten von Pausen:
 1. Klicken Sie im Bereich "Pausen" auf **Pause hinzufügen**.
 2. Geben Sie eine Bezeichnung ein (z. B. "Mittagspause").
 3. Wählen Sie zwischen **Einmalig** oder **Wiederkehrend**.
+4. Bei **Einmalig**: Wählen Sie das gewünschte **Datum** aus.
+5. Bei **Wiederkehrend**: Wählen Sie die gewünschten **Wochentage** aus.
+
 4. Legen Sie den Zeitraum (Start- und Endzeit) fest.
 5. Speichern Sie die Pause.
 
