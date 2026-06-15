@@ -15,7 +15,6 @@ Um eine neue Aufgabe zu erstellen, klicken Sie auf der Seite **Aufgaben** auf di
 
 ### Weitere Felder
 - **Beschreibung:** Geben Sie der Aufgabe einen aussagekräftigen Namen und optional Details an.
-- **Organisation:** Falls Sie mehrere Accounts verknüpft haben, dann muss jede Aufgabe einer Organisation (Unternehmen oder Verein) zugeordnet sein. Das Planungssystem plant dann Aufgaben dieser Organisation auch ausschließlich in der Arbeitszeit dieser Organisation ein.
 - **Endtermin (Deadline):** Bis wann muss die Aufgabe spätestens erledigt sein?
 - **Anforderungsgrad:** Wählen Sie zwischen *Niedrig*, *Mittel* oder *Hoch*. Dies hilft dem Planungssystem, Aufgaben passend zu Ihren Energiephasen zu planen und sie nicht mit Aufgaben zu über- oder unterfordern.
 - **Status:** Der aktuelle Fortschritt (*Offen*, *In Bearbeitung*, *Erledigt*).
