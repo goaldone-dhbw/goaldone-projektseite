@@ -9,7 +9,7 @@ Sie können für jede Ihrer Organisationen (z. B. "Hauptjob" oder "Nebentätigke
 Dabei gilt zu Beachten, dass sich Arbeitszeiten zwischen Organisationen nicht überschneiden dürfen.
 
 ### Arbeitszeiten erfassen
-1. Navigieren Sie im Menü zu **Arbeitszeiten**.
+1. Navigieren Sie im Menü zu **Arbeitszeiten & Pausen**.
 2. Klicken Sie auf **Arbeitszeit hinzufügen**.
 3. Wählen Sie die entsprechende **Organisation** aus.
 4. Wählen Sie einen oder mehrere **Wochentage** aus, für die diese Zeiten gelten sollen.
