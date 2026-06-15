@@ -23,7 +23,7 @@ Sollte eine Organisation nicht mehr benötigt werden, kann sie durch einen Super
 ## Super-Admin-Verwaltung
 Super-Admins können den Zugriff auf die Verwaltungsplattform steuern.
 
-### Super-Admins einladen
+### Super-Admins hinzufügen
 Weitere Personen können zur Unterstützung der Plattformverwaltung eingeladen werden. Dies erfolgt durch Angabe der E-Mail-Adresse. Der Eingeladene erhält eine Benachrichtigung und kann nach der Anmeldung auf die Super-Admin-Funktionen zugreifen.
 
 ### Super-Admins entfernen
