@@ -24,7 +24,11 @@ Damit Sie auf einen Blick sehen, womit Sie es zu tun haben, verwendet GoalDone e
 
 ### Aufgaben-Stückelung
 Wenn eine Aufgabe länger dauert als ein verfügbares Zeitfenster (oder Ihre Konzentration es erfordert), teilt GoalDone diese automatisch auf. Im Kalender sehen Sie dann Bezeichnungen wie "Projektbericht (1/3)", was bedeutet, dass dies der erste von drei Teilen der Aufgabe ist.
+## Arbeitszeiten und Standardverfügbarkeit
 
+Graue Bereiche im Kalender liegen außerhalb Ihrer Arbeitszeiten. In diesen Bereichen werden keine flexiblen Aufgaben eingeplant.
+
+Wenn keine Arbeitszeiten konfiguriert sind, verwendet GoalDone standardmäßig Montag bis Freitag von 08:00 bis 17:00 Uhr als verfügbare Arbeitszeit. Feste Termine und Pausen blockieren die automatische Planung und können nicht für flexible Aufgaben genutzt werden.
 ## Wiederkehrende Aufgaben
 Aufgaben, die sich regelmäßig wiederholen (z. B. "Wöchentliches Reporting"), erscheinen automatisch an den entsprechenden Tagen in Ihrem Kalender, sobald sie vom System für diesen Zeitraum eingeplant wurden. Sie müssen diese nicht jede Woche neu erstellen.
 
