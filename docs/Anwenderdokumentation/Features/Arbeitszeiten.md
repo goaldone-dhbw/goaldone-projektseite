@@ -20,7 +20,7 @@ Falls für unterschiedliche Wochentage unterschiedliche Arbeitszeiten gelten sol
 können Sie diesen Prozess für jeden Wochentag wiederholen.
 
 ### Bedeutung für die Planung
-Die automatische Planung wird Aufgaben ausschließlich innerhalb dieser definierten Zeitfenster planen. 
+Die automatische Planung plant Aufgaben ausschließlich innerhalb dieser definierten Zeitfenster.
 Liegt für einen Tag keine Arbeitszeit vor, wird dort auch nichts geplant.
 
 ## Pausen verwalten
