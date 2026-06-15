@@ -9,6 +9,9 @@ Um eine neue Aufgabe zu erstellen, klicken Sie auf der Seite **Aufgaben** auf di
 ### Erforderliche Felder
 - **Titel**: eine kurze, aussagekräftige Bezeichnung der Aufgabe
 - **Dauer**: Eine Schätzung, wie lange eine Aufgabe dauern wird (in Stunden und Minuten)
+- - **Unternehmen / Verein:** Ordnet die Aufgabe einer Organisation zu.
+- **Status:** Der aktuelle Bearbeitungsstand der Aufgabe, z. B. **Offen**, **In Bearbeitung** oder **Erledigt**.
+
 
 ### Weitere Felder
 - **Beschreibung:** Geben Sie der Aufgabe einen aussagekräftigen Namen und optional Details an.
