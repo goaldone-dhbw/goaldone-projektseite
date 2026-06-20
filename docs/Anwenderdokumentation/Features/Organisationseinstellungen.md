@@ -31,7 +31,7 @@ Wenn Sie Administrator in mehreren Organisationen sind, können Sie innerhalb de
 
 Neue Mitglieder können einfach per E-Mail in die Organisation eingeladen werden.
 
-1.  **Einladung versenden:** Geben Sie in den Organisationseinstellungen die E-Mail-Adresse der Person ein, die Sie einladen möchten.
+1.  **Einladung versenden:** Geben Sie in den Organisationseinstellungen die E-Mail-Adresse und den Namen der Person ein, die Sie einladen möchten.
 2.  **E-Mail-Empfang:** Der Empfänger erhält eine automatisierte E-Mail mit einem Einladungslink.
 3.  **Registrierung/Login:**
     *   Falls die Person bereits ein GoalDone-Konto hat, muss sie sich lediglich einloggen, um der Organisation beizutreten.

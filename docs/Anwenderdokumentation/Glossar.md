@@ -18,5 +18,8 @@ Hier werden zentrale funktionale Konzepte der Anwendung erläutert.
 *   **Intelligente Planung:** Das Kern-Feature von GoalDone. Das System verteilt anstehende Aufgaben automatisch auf die verfügbaren Arbeitszeiten der Nutzer, um einen optimalen Zeitplan zu erstellen.
 *   **Organisation:** Ein geschlossener Bereich innerhalb von GoalDone (z. B. ein Unternehmen oder ein Team), in dem Mitglieder gemeinsam Aufgaben und Planungen verwalten.
 *   **Pausentypen:** Kategorien für Unterbrechungen der Arbeitszeit (z. B. Mittagspause). Pausen werden bei der intelligenten Planung automatisch berücksichtigt, sodass in diesen Zeiten keine Aufgaben geplant werden.
+*   **Chunk:** Zeitblock, in den eine Aufgabe bei der Planung aufgeteilt werden kann.
+*   **Zitadel:** Externer Dienst, der für Authentifizierung, Benutzerverwaltung und Zugriffsrechte verwendet wird.
+
 
 [Zurück zur Übersicht](README.md)

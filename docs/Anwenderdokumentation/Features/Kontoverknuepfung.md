@@ -15,7 +15,7 @@ Dies hilft Ihnen:
 
 ### Wichtige Regel
 Es ist **nicht möglich**, zwei Konten zu verknüpfen, die zur **selben Organisation** gehören. Die Verknüpfung ist speziell für Benutzer gedacht, die in unterschiedlichen organisatorischen Kontexten tätig sind (Cross-Org Productivity).
-
+Außerdem können nur Konten mit **unterschiedlichen E-Mail-Adressen** miteinander verknüpft werden.
 ---
 
 ## Verknüpfungsprozess

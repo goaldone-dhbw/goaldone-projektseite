@@ -1,13 +1,20 @@
 # Benutzereinstellungen
 
 ## Überblick
-In den Benutzereinstellungen können Sie Ihre persönlichen Informationen verwalten, Ihr Passwort ändern und Ihr Konto absichern oder löschen.
+In den Benutzereinstellungen können Sie Ihr Passwort ändern, sich abmelden, Ihr Benutzerkonto löschen und verknüpfte Accounts verwalten. Außerdem sehen Sie, mit welchen Organisationen Ihr Konto verbunden ist und welche Rolle Sie dort besitzen.
 
 ## Profil verwalten
 Hier können Sie Ihre Stammdaten einsehen und aktualisieren:
 - **Name:** Ihr Vor- und Nachname.
 - **E-Mail-Adresse:** Die für die Anmeldung und Benachrichtigungen verwendete Adresse.
 
+## Verknüpfte Accounts verwalten
+
+Im Bereich **Verknüpfte Accounts** sehen Sie alle Accounts, die mit Ihrem Benutzerkonto verbunden sind. Zu jedem Account werden die Organisation, Ihre Rolle, die E-Mail-Adresse und der Name angezeigt.
+
+Über die verfügbaren Symbole können verknüpfte Accounts bearbeitet oder von Ihrem Benutzerkonto getrennt werden.
+
+Weitere Informationen zum Vorgehen, zu Voraussetzungen, Einschränkungen und Auswirkungen finden Sie unter [Kontoverknüpfung](Kontoverknuepfung.md).
 ## Sicherheit & Passwort
 Um Ihr Konto zu schützen, können Sie Ihr Passwort jederzeit ändern.
 
