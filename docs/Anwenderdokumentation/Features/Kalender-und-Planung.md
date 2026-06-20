@@ -32,8 +32,7 @@ Wenn keine Arbeitszeiten konfiguriert sind, verwendet GoalDone standardmäßig M
 
 ## Rückmeldung nach Ablauf eines Aufgabenblocks
 
-Wenn ein eingeplanter Aufgabenblock abgelaufen ist, kann GoalDone einen Dialog anzeigen. In diesem Dialog fragt das System, ob die Aufgabe abgeschlossen wurde.
-
+Wenn ein eingeplanter Aufgabenblock abgelaufen ist, zeigt GoalDone einen Dialog an. In diesem Dialog fragt das System, ob die Aufgabe abgeschlossen wurde.
 Dabei gibt es je nach Aufgabe unterschiedliche Möglichkeiten:
 
 * **Die ganze Aufgabe als erledigt markieren:**  

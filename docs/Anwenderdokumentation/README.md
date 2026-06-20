@@ -13,3 +13,4 @@ Willkommen bei der Anwenderdokumentation für GoalDone. Diese Dokumentation hilf
 - [Organisationseinstellungen](Features/Organisationseinstellungen.md)
 - [Kontoverknüpfung](Features/Kontoverknuepfung.md)
 - [Super-Admin](Features/Super-Admin.md)
+- [Termine](Features/Termine.md)
