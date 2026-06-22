@@ -31,6 +31,7 @@ Eine korrekte Netzwerkkonfiguration ist entscheidend, da GoalDone auf verschlüs
 
 ### DNS-Konfiguration
 Sie benötigen zwei separate A-Records (Subdomains), die beide auf die IP-Adresse Ihres Servers zeigen:
+
 1.  **Anwendungs-URL:** z.B. `app.ihre-domain.de` (für die Benutzeroberfläche von GoalDone).
 2.  **SSO/IAM-URL:** z.B. `sso.ihre-domain.de` (für das Identitätsmanagement-System Zitadel).
 
@@ -38,6 +39,7 @@ Sie benötigen zwei separate A-Records (Subdomains), die beide auf die IP-Adress
 
 ### Firewall / Offene Ports
 Die folgenden Ports müssen in der Firewall Ihres Providers (z.B. AWS Security Groups, Hetzner Firewall) sowie lokal auf dem Server freigegeben sein:
+
 *   **Port 22 (SSH):** Für den Fernzugriff auf den Server.
 *   **Port 80 (HTTP):** Für die initiale ACME-Validierung (Let's Encrypt).
 *   **Port 443 (HTTPS):** Für den verschlüsselten Zugriff auf die Anwendung.
@@ -201,6 +203,7 @@ grep -i "error" deploy.log
 
 
 **Strategie bei Fehlern:**
+
 1. Analysieren Sie den Fehler in `deploy.log`.
 2. Beheben Sie die Ursache (z.B. korrekte SMTP-Daten in der `.env` eintragen oder Firewall öffnen).
 3. Starten Sie das Skript `bash infra/deploy.sh` erneut. Es wird automatisch an der Stelle fortgesetzt, an der es zuvor abgebrochen ist.

@@ -20,12 +20,13 @@ In der Mitgliederliste sehen Sie den Namen, die E-Mail-Adresse und die aktuelle 
 *   **Rolle ändern:** Sie können einen Benutzer zum Administrator befördern oder einem Administrator die Admin-Rechte entziehen (sofern er nicht der letzte Administrator ist).
 *   **Mitglied entfernen:** Sie können Personen aus der Organisation entfernen. Diese verlieren damit sofort den Zugriff auf alle Daten dieser Organisation.
 
-> [!TIP]
-> **Screenshot Platzhalter:** Hier wird die Mitgliederliste mit den verfügbaren Aktionen angezeigt.
+<img src="../screenshots/org-user-management.png" width="1000">
 
 ## Wechseln zwischen Organisationen
 
 Wenn Sie Administrator in mehreren Organisationen sind, können Sie innerhalb der Organisationseinstellungen zwischen diesen wechseln. Dies ermöglicht es Ihnen, die Mitgliederverwaltung für jede Organisation separat vorzunehmen, ohne sich neu anmelden zu müssen.
+
+<img src="../screenshots/org-user-management-switch-company.png" width="1000">
 
 ## Einladungsprozess
 

@@ -5,6 +5,7 @@ In den Benutzereinstellungen können Sie Ihr Passwort ändern, sich abmelden, Ih
 
 ## Profil verwalten
 Hier können Sie Ihre Stammdaten einsehen und aktualisieren:
+
 - **Name:** Ihr Vor- und Nachname.
 - **E-Mail-Adresse:** Die für die Anmeldung und Benachrichtigungen verwendete Adresse.
 
@@ -20,6 +21,7 @@ Um Ihr Konto zu schützen, können Sie Ihr Passwort jederzeit ändern.
 
 ### Passwort-Anforderungen
 Ein sicheres Passwort muss folgende Kriterien erfüllen:
+
 - Mindestens **8 Zeichen** lang.
 - Mindestens ein **Großbuchstabe**.
 - Mindestens ein **Kleinbuchstabe**.
@@ -31,6 +33,7 @@ Um sich sicher vom System abzumelden, klicken Sie im Benutzermenü auf **Abmelde
 
 ## Konto löschen
 Wenn Sie GoalDone nicht mehr nutzen möchten, können Sie Ihr Konto dauerhaft löschen.
+
 1. Navigieren Sie zu den Einstellungen.
 2. Wählen Sie den Bereich **Konto löschen**.
 3. Zur Bestätigung müssen Sie das Wort **LÖSCHEN** in das dafür vorgesehene Feld eingeben.

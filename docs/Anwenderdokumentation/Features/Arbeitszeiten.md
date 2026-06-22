@@ -29,6 +29,7 @@ in denen keine Arbeit stattfinden soll.
 
 ### Pausentypen
 Es gibt zwei Arten von Pausen:
+
 - **Einmalig:** Gilt nur für ein bestimmtes Datum (z. B. ein Urlaubstag).
 - **Wiederkehrend:** Gilt an bestimmten Wochentagen (z. B. tägliche Mittagspause von 12:00 bis 13:00 Uhr).
 

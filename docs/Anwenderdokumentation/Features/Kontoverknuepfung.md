@@ -9,6 +9,7 @@ Der Hauptvorteil der Kontoverknüpfung liegt in der **einheitlichen Kalenderansi
 werden alle Aufgaben, Termine und Arbeitszeiten der beteiligten Organisationen in einem einzigen, konsolidierten Kalender angezeigt. 
 
 Dies hilft Ihnen:
+
 - Überschneidungen zwischen verschiedenen Projekten oder Arbeitgebern zu vermeiden.
 - Einen vollständigen Überblick über Ihre gesamte zeitliche Belastung zu erhalten.
 - Den Optimierungsalgorithmus von GoalDone über alle Ihre Verpflichtungen hinweg arbeiten zu lassen.
@@ -33,12 +34,14 @@ Um ein weiteres Konto zu verknüpfen, folgen Sie diesen Schritten:
 
 ### Separate Zugangsdaten
 Auch wenn Ihre Konten verknüpft sind, bleiben sie technisch getrennte Identitäten. Das bedeutet:
+
 - Jedes Konto behält seine eigenen Zugangsdaten (E-Mail-Adresse und Passwort).
 - Eine Änderung des Passworts in einem Konto hat keine Auswirkungen auf die anderen verknüpften Konten. 
 Außerdem kann nur das Passwort des aktuell angemeldeten Accounts geändert werden.
 
 ### Aufhebung der Verknüpfung
 Sie können eine Kontoverknüpfung jederzeit wieder aufheben. Beachten Sie dabei jedoch die folgenden Auswirkungen:
+
 - **Sichtbarkeit:** Sobald die Verknüpfung aufgehoben ist, verschwinden alle Aufgaben und Termine der entsprechenden Organisation aus Ihrem gemeinsamen Kalender. Diese sind nicht gelöscht, aber nicht mehr für Sie sichtbar.
 - **Zugriff:** Um auf das nun getrennte Konto zuzugreifen, müssen Sie sich wieder separat mit den jeweiligen Zugangsdaten anmelden.
 

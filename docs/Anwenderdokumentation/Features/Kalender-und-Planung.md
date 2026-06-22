@@ -7,6 +7,7 @@ Das Besondere an GoalDone ist, dass Sie Ihren Zeitplan nicht manuell "basteln" m
 
 ### Wie Ihr Zeitplan entsteht (Abhängigkeiten)
 Damit der Planer arbeiten kann, benötigt er zwei Informationen:
+
 1.  **Ihre Verfügbarkeit:** Wann arbeiten Sie? (Definiert in den [Arbeitszeiten](Arbeitszeiten.md), [Pausen](Arbeitszeiten.md) und Termine)
 2.  **Ihre Arbeit:** Was muss erledigt werden? (Definiert in den [Aufgaben](Aufgaben.md))
 
