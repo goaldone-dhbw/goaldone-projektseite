@@ -1,3 +1,4 @@
 deploy.sh
 .venv
 install-deps.sh
+.DS_STORE

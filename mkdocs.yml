@@ -51,4 +51,17 @@ nav:
       - Designbeschreibung: designbeschreibung.md
   - Produktfeatures:
       - Planungsalgorithmus: planungsalgorithmus.md
+  - Anwenderdokumentation:
+      - Anwenderdokumentation: Anwenderdokumentation/README.md
+      - Installation: Anwenderdokumentation/Installation.md
+      - Glossar: Anwenderdokumentation/Glossar.md
+      - Features:
+          - Arbeitszeiten: Anwenderdokumentation/Features/Arbeitszeiten.md
+          - Aufgaben: Anwenderdokumentation/Features/Aufgaben.md
+          - Benutzerverwaltung: Anwenderdokumentation/Features/Benutzerverwaltung.md
+          - Kalender und Planung: Anwenderdokumentation/Features/Kalender-und-Planung.md
+          - Kontoverknüpfung: Anwenderdokumentation/Features/Kontoverknuepfung.md
+          - Organisationseinstellungen: Anwenderdokumentation/Features/Organisationseinstellungen.md
+          - Super-Admin Einstellungen: Anwenderdokumentation/Features/Super-Admin.md
+          - Termine: Anwenderdokumentation/Features/Termine.md
   
