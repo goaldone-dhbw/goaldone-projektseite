@@ -23,7 +23,7 @@ Außerdem können nur Konten mit **unterschiedlichen E-Mail-Adressen** miteinand
 Um ein weiteres Konto zu verknüpfen, folgen Sie diesen Schritten:
 
 1. Navigieren Sie zu den **Benutzereinstellungen**.
-2. Wählen Sie den Bereich **Kontoverknüpfung**.
+2. Wählen Sie den Bereich **Verknüpfte Accounts**.
 3. Klicken Sie auf die Schaltfläche **Konto verknüpfen**.
 4. Sie werden zur Login-Seite weitergeleitet. Melden Sie sich dort mit den Zugangsdaten (E-Mail und Passwort) des Kontos an, das Sie verknüpfen möchten.
 5. Nach erfolgreichem Login werden Sie zurück zu GoalDone geleitet, und das Konto erscheint in Ihrer Liste der verknüpften Konten.

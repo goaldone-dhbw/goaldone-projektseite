@@ -10,7 +10,7 @@ Dabei gilt zu Beachten, dass sich Arbeitszeiten zwischen Organisationen nicht ü
 
 ### Arbeitszeiten erfassen
 1. Navigieren Sie im Menü zu **Arbeitszeiten & Pausen**.
-2. Klicken Sie auf **Arbeitszeit hinzufügen**.
+2. Klicken Sie auf **Neue Arbeitszeit**.
 3. Wählen Sie die entsprechende **Organisation** aus.
 4. Wählen Sie einen oder mehrere **Wochentage** aus, für die diese Zeiten gelten sollen.
 5. Geben Sie die **Startzeit** (z. B. 08:00) und die **Endzeit** (z. B. 17:00) an.
@@ -18,7 +18,7 @@ Dabei gilt zu Beachten, dass sich Arbeitszeiten zwischen Organisationen nicht ü
 
 Falls für unterschiedliche Wochentage unterschiedliche Arbeitszeiten gelten sollen, 
 können Sie diesen Prozess für jeden Wochentag wiederholen.
-
+Falls keine Arbeitszeiten angelegt wurden, gelten automatisch die Standardarbeitszeiten von 08:00 Uhr bis 17:00 Uhr.
 ### Bedeutung für die Planung
 Die automatische Planung plant Aufgaben ausschließlich innerhalb dieser definierten Zeitfenster.
 Liegt für einen Tag keine Arbeitszeit vor, wird dort auch nichts geplant.
@@ -34,7 +34,8 @@ Es gibt zwei Arten von Pausen:
 - **Wiederkehrend:** Gilt an bestimmten Wochentagen (z. B. tägliche Mittagspause von 12:00 bis 13:00 Uhr).
 
 ### Pause hinzufügen
-1. Klicken Sie im Bereich "Pausen" auf **Pause hinzufügen**.
+1. Klicken Sie im Bereich "Pausen" auf **Neue Pause**.
+2. Wählen Sie die entsprechende **Organisation** aus.
 2. Geben Sie eine Bezeichnung ein (z. B. "Mittagspause").
 3. Wählen Sie zwischen **Einmalig** oder **Wiederkehrend**.
 4. Bei **Einmalig**: Wählen Sie das gewünschte **Datum** aus.

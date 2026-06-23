@@ -112,8 +112,9 @@ Dabei können je nach Terminart angepasst werden:
 * Startzeit
 * Endzeit
 
-Bei wiederkehrenden Terminen können einzelne Varianten bearbeitet werden, damit Änderungen gezielt für bestimmte Zeiträume gelten.
-
+Bei wiederkehrenden Terminen können einzelne Varianten bearbeitet werden. 
+Varianten entstehen, wenn ein wiederkehrender Termin direkt in der Planungsansicht angepasst wird. 
+Dadurch können Änderungen gezielt für bestimmte Zeiträume übernommen werden, ohne den gesamten Termin einheitlich zu verändern.
 ## Termin löschen
 
 Ein Termin kann über das Löschen-Symbol entfernt werden.
