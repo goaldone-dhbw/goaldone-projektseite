@@ -19,9 +19,11 @@ Damit Sie auf einen Blick sehen, womit Sie es zu tun haben, verwendet GoalDone e
 | Element               | Darstellung            | Bedeutung                                                                                                           |
 |:----------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------|
 | **Aufgaben**          | **Blau**               | Arbeitsschritte, die vom System eingeplant wurden. Längere Aufgaben werden ggf. geteilt (z. B. "Aufgabe XY (1/2)"). |
-| **Termine**           | **Dunkelgrau**         | Feste Termine, die zu einer bestimmten Zeit stattfinden müssen.                                                     |
-| **Pausen**            | **Grün**               | Geplante Erholungszeiten innerhalb Ihrer Arbeitszeit.                                                               |
+| **Termine**           | **Dunkelblau**         | Feste Termine, die zu einer bestimmten Zeit stattfinden müssen.                                                     |
+| **Pausen**            | **Orange**             | Geplante Erholungszeiten innerhalb Ihrer Arbeitszeit.                                                               |
 | **Nicht-Arbeitszeit** | **Diagonal gestreift** | Zeiträume, in denen Sie nicht arbeiten (z. B. Feierabend oder Wochenende). Hier werden keine Aufgaben geplant.      |
+| **Erledigt**          | **Grün**               | Aufgaben, die als erledigt markiert wurden.                                                                         |
+
 
 ### Aufgaben-Stückelung
 Wenn eine Aufgabe länger dauert als ein verfügbares Zeitfenster (oder Ihre Konzentration es erfordert), teilt GoalDone diese automatisch auf. Im Kalender sehen Sie dann Bezeichnungen wie "Projektbericht (1/3)", was bedeutet, dass dies der erste von drei Teilen der Aufgabe ist.

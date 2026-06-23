@@ -7,10 +7,11 @@ Willkommen bei der Anwenderdokumentation für GoalDone. Diese Dokumentation hilf
 - [Installationsanleitung](Installation.md)
 - [Glossar](Glossar.md)
 - [Arbeitszeiten](Features/Arbeitszeiten.md)
+- [Termine](Features/Termine.md)
 - [Aufgaben](Features/Aufgaben.md)
 - [Benutzereinstellungen](Features/Benutzereinstellungen.md)
 - [Kalender und Planung](Features/Kalender-und-Planung.md)
 - [Organisationseinstellungen](Features/Organisationseinstellungen.md)
 - [Kontoverknüpfung](Features/Kontoverknuepfung.md)
 - [Super-Admin](Features/Super-Admin.md)
-- [Termine](Features/Termine.md)
+
